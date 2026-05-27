@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="DesignPattern/DesignPattern.csproj" />
+  <Project Path="SingletonPattern_Demo/SingletonPattern_Demo.csproj" />
+  <Project Path="FactoryMethod_Demo/FactoryMethod_Demo.csproj" />
+  <Project Path="AbstractFactory_Demo/AbstractFactory_Demo.csproj" />
+  <Project Path="Prototype_Demo/Prototype_Demo.csproj" />
+</Solution>

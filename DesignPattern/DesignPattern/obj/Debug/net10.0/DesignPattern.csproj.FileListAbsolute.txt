@@ -1,0 +1,14 @@
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\DesignPattern\bin\Debug\net10.0\DesignPattern.exe
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\DesignPattern\bin\Debug\net10.0\DesignPattern.deps.json
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\DesignPattern\bin\Debug\net10.0\DesignPattern.runtimeconfig.json
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\DesignPattern\bin\Debug\net10.0\DesignPattern.dll
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\DesignPattern\bin\Debug\net10.0\DesignPattern.pdb
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\DesignPattern\obj\Debug\net10.0\DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\DesignPattern\obj\Debug\net10.0\DesignPattern.AssemblyInfoInputs.cache
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\DesignPattern\obj\Debug\net10.0\DesignPattern.AssemblyInfo.cs
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\DesignPattern\obj\Debug\net10.0\DesignPattern.csproj.CoreCompileInputs.cache
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\DesignPattern\obj\Debug\net10.0\DesignPattern.dll
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\DesignPattern\obj\Debug\net10.0\refint\DesignPattern.dll
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\DesignPattern\obj\Debug\net10.0\DesignPattern.pdb
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\DesignPattern\obj\Debug\net10.0\DesignPattern.genruntimeconfig.cache
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\DesignPattern\obj\Debug\net10.0\ref\DesignPattern.dll

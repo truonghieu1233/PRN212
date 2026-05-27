@@ -1,0 +1,14 @@
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\Prototype_Demo\bin\Debug\net10.0\Prototype_Demo.exe
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\Prototype_Demo\bin\Debug\net10.0\Prototype_Demo.deps.json
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\Prototype_Demo\bin\Debug\net10.0\Prototype_Demo.runtimeconfig.json
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\Prototype_Demo\bin\Debug\net10.0\Prototype_Demo.dll
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\Prototype_Demo\bin\Debug\net10.0\Prototype_Demo.pdb
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\Prototype_Demo\obj\Debug\net10.0\Prototype_Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\Prototype_Demo\obj\Debug\net10.0\Prototype_Demo.AssemblyInfoInputs.cache
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\Prototype_Demo\obj\Debug\net10.0\Prototype_Demo.AssemblyInfo.cs
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\Prototype_Demo\obj\Debug\net10.0\Prototype_Demo.csproj.CoreCompileInputs.cache
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\Prototype_Demo\obj\Debug\net10.0\Prototype_Demo.dll
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\Prototype_Demo\obj\Debug\net10.0\refint\Prototype_Demo.dll
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\Prototype_Demo\obj\Debug\net10.0\Prototype_Demo.pdb
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\Prototype_Demo\obj\Debug\net10.0\Prototype_Demo.genruntimeconfig.cache
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\Prototype_Demo\obj\Debug\net10.0\ref\Prototype_Demo.dll

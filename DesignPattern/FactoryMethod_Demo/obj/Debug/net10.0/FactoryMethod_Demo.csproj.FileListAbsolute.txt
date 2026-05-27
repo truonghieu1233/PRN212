@@ -1,0 +1,14 @@
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\FactoryMethod_Demo\bin\Debug\net10.0\FactoryMethod_Demo.exe
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\FactoryMethod_Demo\bin\Debug\net10.0\FactoryMethod_Demo.deps.json
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\FactoryMethod_Demo\bin\Debug\net10.0\FactoryMethod_Demo.runtimeconfig.json
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\FactoryMethod_Demo\bin\Debug\net10.0\FactoryMethod_Demo.dll
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\FactoryMethod_Demo\bin\Debug\net10.0\FactoryMethod_Demo.pdb
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\FactoryMethod_Demo\obj\Debug\net10.0\FactoryMethod_Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\FactoryMethod_Demo\obj\Debug\net10.0\FactoryMethod_Demo.AssemblyInfoInputs.cache
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\FactoryMethod_Demo\obj\Debug\net10.0\FactoryMethod_Demo.AssemblyInfo.cs
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\FactoryMethod_Demo\obj\Debug\net10.0\FactoryMethod_Demo.csproj.CoreCompileInputs.cache
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\FactoryMethod_Demo\obj\Debug\net10.0\FactoryMethod_Demo.dll
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\FactoryMethod_Demo\obj\Debug\net10.0\refint\FactoryMethod_Demo.dll
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\FactoryMethod_Demo\obj\Debug\net10.0\FactoryMethod_Demo.pdb
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\FactoryMethod_Demo\obj\Debug\net10.0\FactoryMethod_Demo.genruntimeconfig.cache
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\DesignPattern\FactoryMethod_Demo\obj\Debug\net10.0\ref\FactoryMethod_Demo.dll
