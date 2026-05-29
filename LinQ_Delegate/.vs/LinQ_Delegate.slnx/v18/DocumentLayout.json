@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Tai Lieu\\Semester5\\PRN212\\Code\\LinQ_Delegate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F94FD189-0D68-43D0-ACD3-56ADA02D9A90}|LinQ_Delegate\\LinQ_Delegate.csproj|e:\\tai lieu\\semester5\\prn212\\code\\linq_delegate\\linq_delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F94FD189-0D68-43D0-ACD3-56ADA02D9A90}|LinQ_Delegate\\LinQ_Delegate.csproj|solutionrelative:linq_delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Tai Lieu\\Semester5\\PRN212\\Code\\LinQ_Delegate\\LinQ_Delegate\\Program.cs",
+              "RelativeDocumentMoniker": "LinQ_Delegate\\Program.cs",
+              "ToolTip": "E:\\Tai Lieu\\Semester5\\PRN212\\Code\\LinQ_Delegate\\LinQ_Delegate\\Program.cs",
+              "RelativeToolTip": "LinQ_Delegate\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAowHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T07:14:39.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

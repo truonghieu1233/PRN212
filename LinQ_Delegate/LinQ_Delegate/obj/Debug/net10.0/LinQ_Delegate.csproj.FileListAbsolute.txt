@@ -1,0 +1,14 @@
+E:\Tai Lieu\Semester5\PRN212\Code\LinQ_Delegate\LinQ_Delegate\bin\Debug\net10.0\LinQ_Delegate.exe
+E:\Tai Lieu\Semester5\PRN212\Code\LinQ_Delegate\LinQ_Delegate\bin\Debug\net10.0\LinQ_Delegate.deps.json
+E:\Tai Lieu\Semester5\PRN212\Code\LinQ_Delegate\LinQ_Delegate\bin\Debug\net10.0\LinQ_Delegate.runtimeconfig.json
+E:\Tai Lieu\Semester5\PRN212\Code\LinQ_Delegate\LinQ_Delegate\bin\Debug\net10.0\LinQ_Delegate.dll
+E:\Tai Lieu\Semester5\PRN212\Code\LinQ_Delegate\LinQ_Delegate\bin\Debug\net10.0\LinQ_Delegate.pdb
+E:\Tai Lieu\Semester5\PRN212\Code\LinQ_Delegate\LinQ_Delegate\obj\Debug\net10.0\LinQ_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tai Lieu\Semester5\PRN212\Code\LinQ_Delegate\LinQ_Delegate\obj\Debug\net10.0\LinQ_Delegate.AssemblyInfoInputs.cache
+E:\Tai Lieu\Semester5\PRN212\Code\LinQ_Delegate\LinQ_Delegate\obj\Debug\net10.0\LinQ_Delegate.AssemblyInfo.cs
+E:\Tai Lieu\Semester5\PRN212\Code\LinQ_Delegate\LinQ_Delegate\obj\Debug\net10.0\LinQ_Delegate.csproj.CoreCompileInputs.cache
+E:\Tai Lieu\Semester5\PRN212\Code\LinQ_Delegate\LinQ_Delegate\obj\Debug\net10.0\LinQ_Delegate.dll
+E:\Tai Lieu\Semester5\PRN212\Code\LinQ_Delegate\LinQ_Delegate\obj\Debug\net10.0\refint\LinQ_Delegate.dll
+E:\Tai Lieu\Semester5\PRN212\Code\LinQ_Delegate\LinQ_Delegate\obj\Debug\net10.0\LinQ_Delegate.pdb
+E:\Tai Lieu\Semester5\PRN212\Code\LinQ_Delegate\LinQ_Delegate\obj\Debug\net10.0\LinQ_Delegate.genruntimeconfig.cache
+E:\Tai Lieu\Semester5\PRN212\Code\LinQ_Delegate\LinQ_Delegate\obj\Debug\net10.0\ref\LinQ_Delegate.dll
