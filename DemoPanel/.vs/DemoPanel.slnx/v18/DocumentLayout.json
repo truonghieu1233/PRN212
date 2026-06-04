@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Tai Lieu\\Semester5\\PRN212\\Code\\Ftes\\DemoPanel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA4570C-E454-CEE4-5C41-89487564DBB6}|DemoPanel\\DemoPanel.csproj|e:\\tai lieu\\semester5\\prn212\\code\\ftes\\demopanel\\demopanel\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CFA4570C-E454-CEE4-5C41-89487564DBB6}|DemoPanel\\DemoPanel.csproj|solutionrelative:demopanel\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA4570C-E454-CEE4-5C41-89487564DBB6}|DemoPanel\\DemoPanel.csproj|e:\\tai lieu\\semester5\\prn212\\code\\ftes\\demopanel\\demopanel\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA4570C-E454-CEE4-5C41-89487564DBB6}|DemoPanel\\DemoPanel.csproj|solutionrelative:demopanel\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA4570C-E454-CEE4-5C41-89487564DBB6}|DemoPanel\\DemoPanel.csproj|e:\\tai lieu\\semester5\\prn212\\code\\ftes\\demopanel\\demopanel\\demogridpanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CFA4570C-E454-CEE4-5C41-89487564DBB6}|DemoPanel\\DemoPanel.csproj|solutionrelative:demopanel\\demogridpanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA4570C-E454-CEE4-5C41-89487564DBB6}|DemoPanel\\DemoPanel.csproj|e:\\tai lieu\\semester5\\prn212\\code\\ftes\\demopanel\\demopanel\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CFA4570C-E454-CEE4-5C41-89487564DBB6}|DemoPanel\\DemoPanel.csproj|solutionrelative:demopanel\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\.copilot\\plans\\plan-create-wrappanel-and-canvas-panel-demo-projects.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|MarkdownSecurePreview"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA4570C-E454-CEE4-5C41-89487564DBB6}|DemoPanel\\DemoPanel.csproj|e:\\tai lieu\\semester5\\prn212\\code\\ftes\\demopanel\\demopanel\\demopanel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CFA4570C-E454-CEE4-5C41-89487564DBB6}|DemoPanel\\DemoPanel.csproj|solutionrelative:demopanel\\demopanel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA4570C-E454-CEE4-5C41-89487564DBB6}|DemoPanel\\DemoPanel.csproj|e:\\tai lieu\\semester5\\prn212\\code\\ftes\\demopanel\\demopanel\\democanvaspanel.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA4570C-E454-CEE4-5C41-89487564DBB6}|DemoPanel\\DemoPanel.csproj|solutionrelative:demopanel\\democanvaspanel.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA4570C-E454-CEE4-5C41-89487564DBB6}|DemoPanel\\DemoPanel.csproj|e:\\tai lieu\\semester5\\prn212\\code\\ftes\\demopanel\\demopanel\\demowrappanel.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA4570C-E454-CEE4-5C41-89487564DBB6}|DemoPanel\\DemoPanel.csproj|solutionrelative:demopanel\\demowrappanel.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DemoGridPanel.xaml",
+              "DocumentMoniker": "E:\\Tai Lieu\\Semester5\\PRN212\\Code\\Ftes\\DemoPanel\\DemoPanel\\DemoGridPanel.xaml",
+              "RelativeDocumentMoniker": "DemoPanel\\DemoGridPanel.xaml",
+              "ToolTip": "E:\\Tai Lieu\\Semester5\\PRN212\\Code\\Ftes\\DemoPanel\\DemoPanel\\DemoGridPanel.xaml",
+              "RelativeToolTip": "DemoPanel\\DemoGridPanel.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-04T06:08:34.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\Tai Lieu\\Semester5\\PRN212\\Code\\Ftes\\DemoPanel\\DemoPanel\\App.xaml",
+              "RelativeDocumentMoniker": "DemoPanel\\App.xaml",
+              "ToolTip": "E:\\Tai Lieu\\Semester5\\PRN212\\Code\\Ftes\\DemoPanel\\DemoPanel\\App.xaml",
+              "RelativeToolTip": "DemoPanel\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-03T10:01:10.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DemoWrapPanel.xaml.cs",
+              "DocumentMoniker": "E:\\Tai Lieu\\Semester5\\PRN212\\Code\\Ftes\\DemoPanel\\DemoPanel\\DemoWrapPanel.xaml.cs",
+              "RelativeDocumentMoniker": "DemoPanel\\DemoWrapPanel.xaml.cs",
+              "ToolTip": "E:\\Tai Lieu\\Semester5\\PRN212\\Code\\Ftes\\DemoPanel\\DemoPanel\\DemoWrapPanel.xaml.cs",
+              "RelativeToolTip": "DemoPanel\\DemoWrapPanel.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T09:52:24.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "plan-create-wrappanel-and-canvas-panel-demo-projects.md [Preview]",
+              "DocumentMoniker": "C:\\Users\\asus\\.copilot\\plans\\plan-create-wrappanel-and-canvas-panel-demo-projects.md",
+              "ToolTip": "C:\\Users\\asus\\.copilot\\plans\\plan-create-wrappanel-and-canvas-panel-demo-projects.md [Preview]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-03T09:51:35.551Z",
+              "EditorCaption": " [Preview]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Tai Lieu\\Semester5\\PRN212\\Code\\Ftes\\DemoPanel\\DemoPanel\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DemoPanel\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\Tai Lieu\\Semester5\\PRN212\\Code\\Ftes\\DemoPanel\\DemoPanel\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DemoPanel\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T09:49:47.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\Tai Lieu\\Semester5\\PRN212\\Code\\Ftes\\DemoPanel\\DemoPanel\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DemoPanel\\MainWindow.xaml",
+              "ToolTip": "E:\\Tai Lieu\\Semester5\\PRN212\\Code\\Ftes\\DemoPanel\\DemoPanel\\MainWindow.xaml",
+              "RelativeToolTip": "DemoPanel\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-03T09:49:48.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DemoCanvasPanel.xaml.cs",
+              "DocumentMoniker": "E:\\Tai Lieu\\Semester5\\PRN212\\Code\\Ftes\\DemoPanel\\DemoPanel\\DemoCanvasPanel.xaml.cs",
+              "RelativeDocumentMoniker": "DemoPanel\\DemoCanvasPanel.xaml.cs",
+              "ToolTip": "E:\\Tai Lieu\\Semester5\\PRN212\\Code\\Ftes\\DemoPanel\\DemoPanel\\DemoCanvasPanel.xaml.cs",
+              "RelativeToolTip": "DemoPanel\\DemoCanvasPanel.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T09:53:38.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DemoPanel.csproj",
+              "DocumentMoniker": "E:\\Tai Lieu\\Semester5\\PRN212\\Code\\Ftes\\DemoPanel\\DemoPanel\\DemoPanel.csproj",
+              "RelativeDocumentMoniker": "DemoPanel\\DemoPanel.csproj",
+              "ToolTip": "E:\\Tai Lieu\\Semester5\\PRN212\\Code\\Ftes\\DemoPanel\\DemoPanel\\DemoPanel.csproj",
+              "RelativeToolTip": "DemoPanel\\DemoPanel.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-03T10:01:06.991Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

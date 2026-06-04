@@ -1,0 +1,119 @@
+<Window x:Class="DemoPanel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DemoPanel"
+        mc:Ignorable="d"
+        Title="WPF Layout Panels Control Hub" Height="450" Width="600" 
+        WindowStartupLocation="CenterScreen" Background="#0f172a">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontSize" Value="15"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Height" Value="55"/>
+            <Setter Property="Width" Value="220"/>
+            <Setter Property="Margin" Value="12"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}" 
+                                CornerRadius="8"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="{TemplateBinding BorderThickness}">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <!-- Top Title Panel -->
+        <StackPanel Grid.Row="0" Margin="0,30,0,10">
+            <TextBlock Text="WPF Layout Panels Demo" 
+                       Foreground="White" 
+                       FontSize="26" 
+                       FontWeight="Bold" 
+                       HorizontalAlignment="Center"
+                       FontFamily="Segoe UI"/>
+            <TextBlock Text="Explore different layout behaviors in WPF by launching the windows below." 
+                       Foreground="#94a3b8" 
+                       FontSize="13" 
+                       Margin="0,8,0,0" 
+                       HorizontalAlignment="Center"
+                       FontFamily="Segoe UI"/>
+        </StackPanel>
+
+        <!-- Navigation Buttons -->
+        <UniformGrid Grid.Row="2" Columns="2" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button Name="btnCanvas" Content="1. Canvas Panel Demo" Click="btnCanvas_Click">
+                <Button.Style>
+                    <Style TargetType="Button" BasedOn="{StaticResource {x:Type Button}}">
+                        <Setter Property="Background" Value="#ef4444"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#dc2626"/>
+                                <Setter Property="Cursor" Value="Hand"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+            </Button>
+            <Button Name="btnWrap" Content="2. Wrap Panel Demo" Click="btnWrap_Click">
+                <Button.Style>
+                    <Style TargetType="Button" BasedOn="{StaticResource {x:Type Button}}">
+                        <Setter Property="Background" Value="#10b981"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#059669"/>
+                                <Setter Property="Cursor" Value="Hand"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+            </Button>
+            <Button Name="btnStack" Content="3. Stack Panel Demo" Click="btnStack_Click">
+                <Button.Style>
+                    <Style TargetType="Button" BasedOn="{StaticResource {x:Type Button}}">
+                        <Setter Property="Background" Value="#f59e0b"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#d97706"/>
+                                <Setter Property="Cursor" Value="Hand"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+            </Button>
+            <Button Name="btnGrid" Content="4. Grid Panel Demo" Click="btnGrid_Click">
+                <Button.Style>
+                    <Style TargetType="Button" BasedOn="{StaticResource {x:Type Button}}">
+                        <Setter Property="Background" Value="#8b5cf6"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#7c3aed"/>
+                                <Setter Property="Cursor" Value="Hand"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+            </Button>
+        </UniformGrid>
+
+        <!-- Footer -->
+        <TextBlock Grid.Row="3" Text="Semester 5 - PRN212 Demo Application" 
+                   Foreground="#475569" FontSize="11" 
+                   HorizontalAlignment="Center" Margin="0,0,0,20"/>
+    </Grid>
+</Window>
