@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CategoryRepo/CategoryRepo.csproj" />
+  <Project Path="CategoryService/CategoryService.csproj" />
+  <Project Path="CRUD_FPT/CRUD_FPT.csproj" />
+  <Project Path="Model/Model.csproj" />
+</Solution>

@@ -1,0 +1,12 @@
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\Model\bin\Debug\net10.0\Model.deps.json
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\Model\bin\Debug\net10.0\Model.dll
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\Model\bin\Debug\net10.0\Model.pdb
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\Model\obj\Debug\net10.0\Model.csproj.AssemblyReference.cache
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\Model\obj\Debug\net10.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\Model\obj\Debug\net10.0\Model.AssemblyInfoInputs.cache
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\Model\obj\Debug\net10.0\Model.AssemblyInfo.cs
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\Model\obj\Debug\net10.0\Model.csproj.CoreCompileInputs.cache
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\Model\obj\Debug\net10.0\Model.dll
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\Model\obj\Debug\net10.0\refint\Model.dll
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\Model\obj\Debug\net10.0\Model.pdb
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\Model\obj\Debug\net10.0\ref\Model.dll

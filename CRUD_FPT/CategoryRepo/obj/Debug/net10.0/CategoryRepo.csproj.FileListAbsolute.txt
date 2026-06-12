@@ -1,0 +1,15 @@
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\CategoryRepo\bin\Debug\net10.0\CategoryRepo.deps.json
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\CategoryRepo\bin\Debug\net10.0\CategoryRepo.dll
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\CategoryRepo\bin\Debug\net10.0\CategoryRepo.pdb
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\CategoryRepo\bin\Debug\net10.0\Model.dll
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\CategoryRepo\bin\Debug\net10.0\Model.pdb
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\CategoryRepo\obj\Debug\net10.0\CategoryRepo.csproj.AssemblyReference.cache
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\CategoryRepo\obj\Debug\net10.0\CategoryRepo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\CategoryRepo\obj\Debug\net10.0\CategoryRepo.AssemblyInfoInputs.cache
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\CategoryRepo\obj\Debug\net10.0\CategoryRepo.AssemblyInfo.cs
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\CategoryRepo\obj\Debug\net10.0\CategoryRepo.csproj.CoreCompileInputs.cache
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\CategoryRepo\obj\Debug\net10.0\Category.95A0B914.Up2Date
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\CategoryRepo\obj\Debug\net10.0\CategoryRepo.dll
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\CategoryRepo\obj\Debug\net10.0\refint\CategoryRepo.dll
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\CategoryRepo\obj\Debug\net10.0\CategoryRepo.pdb
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\CategoryRepo\obj\Debug\net10.0\ref\CategoryRepo.dll

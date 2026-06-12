@@ -1,0 +1,17 @@
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\CategoryService\bin\Debug\net10.0\CategoryService.deps.json
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\CategoryService\bin\Debug\net10.0\CategoryService.dll
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\CategoryService\bin\Debug\net10.0\CategoryService.pdb
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\CategoryService\bin\Debug\net10.0\CategoryRepo.dll
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\CategoryService\bin\Debug\net10.0\Model.dll
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\CategoryService\bin\Debug\net10.0\CategoryRepo.pdb
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\CategoryService\bin\Debug\net10.0\Model.pdb
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\CategoryService\obj\Debug\net10.0\CategoryService.csproj.AssemblyReference.cache
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\CategoryService\obj\Debug\net10.0\CategoryService.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\CategoryService\obj\Debug\net10.0\CategoryService.AssemblyInfoInputs.cache
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\CategoryService\obj\Debug\net10.0\CategoryService.AssemblyInfo.cs
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\CategoryService\obj\Debug\net10.0\CategoryService.csproj.CoreCompileInputs.cache
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\CategoryService\obj\Debug\net10.0\Category.6DF3024F.Up2Date
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\CategoryService\obj\Debug\net10.0\CategoryService.dll
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\CategoryService\obj\Debug\net10.0\refint\CategoryService.dll
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\CategoryService\obj\Debug\net10.0\CategoryService.pdb
+E:\Tai Lieu\Semester5\PRN212\Code\FPTU_Code\CRUD_FPT\CategoryService\obj\Debug\net10.0\ref\CategoryService.dll

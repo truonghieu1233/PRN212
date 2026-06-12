@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Tai Lieu\\Semester5\\PRN212\\Code\\LinQ_Delegate\\LinQ_Delegate\\LinQ_Delegate.csproj": {}
+    "E:\\Tai Lieu\\Semester5\\PRN212\\Lab\\DesignPattern\\PRN212\\LinQ_Delegate\\LinQ_Delegate\\LinQ_Delegate.csproj": {}
   },
   "projects": {
-    "E:\\Tai Lieu\\Semester5\\PRN212\\Code\\LinQ_Delegate\\LinQ_Delegate\\LinQ_Delegate.csproj": {
+    "E:\\Tai Lieu\\Semester5\\PRN212\\Lab\\DesignPattern\\PRN212\\LinQ_Delegate\\LinQ_Delegate\\LinQ_Delegate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Tai Lieu\\Semester5\\PRN212\\Code\\LinQ_Delegate\\LinQ_Delegate\\LinQ_Delegate.csproj",
+        "projectUniqueName": "E:\\Tai Lieu\\Semester5\\PRN212\\Lab\\DesignPattern\\PRN212\\LinQ_Delegate\\LinQ_Delegate\\LinQ_Delegate.csproj",
         "projectName": "LinQ_Delegate",
-        "projectPath": "E:\\Tai Lieu\\Semester5\\PRN212\\Code\\LinQ_Delegate\\LinQ_Delegate\\LinQ_Delegate.csproj",
+        "projectPath": "E:\\Tai Lieu\\Semester5\\PRN212\\Lab\\DesignPattern\\PRN212\\LinQ_Delegate\\LinQ_Delegate\\LinQ_Delegate.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "E:\\Tai Lieu\\Semester5\\PRN212\\Code\\LinQ_Delegate\\LinQ_Delegate\\obj\\",
+        "outputPath": "E:\\Tai Lieu\\Semester5\\PRN212\\Lab\\DesignPattern\\PRN212\\LinQ_Delegate\\LinQ_Delegate\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
